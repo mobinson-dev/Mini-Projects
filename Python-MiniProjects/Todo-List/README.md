@@ -1,4 +1,4 @@
-Windows:
+Windows :
 python todo-list.py
 
 Linux :
